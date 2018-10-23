@@ -1,0 +1,716 @@
+1,actually.  *
+2,adidas.  *
+3,and.  *
+4,are.  *
+5,airplane.  *
+6,again.  *
+7,against.  *
+8,again.  *
+9,airborne.  *
+10,awkward.  *
+11,alcohol.  *
+12,alky.  *
+13,ulterior.  *
+14,later.  *
+15,amazing.  *
+16,amateur.  *
+17,amazing.  *
+18,amazing.  *
+19,made.  *
+20,amenbola
+21,antsy.  *
+22,and.  *
+23,apology.  *
+24,apropos.  *
+25,argument.  *
+26,asswipe
+27,asterix
+28,atheist.  *
+29,atheist.  *
+30,ouch.  *
+31,awesome.  *
+32,eh.  *
+33,ass.  *
+34,boy.  *
+35,before.  *
+36,backward.  *
+37,baddie.  *
+38,beast.  *
+39,buffoon.  *
+40,baguette.  *
+41,bawling.  *
+42,balloons.  *
+43,ballsack
+44,back.  *
+45,baws
+46,barefoot.  *
+47,baby.  *
+48,biatch
+49,berry.  *
+50,beezie
+51,bhenchod
+52,beautiful.  *
+53,b00n
+54,bias.  *
+55,bible.  *
+56,bitch.  *
+57,bitch.  *
+58,bitatch
+59,bitch.  *
+60,bitchin
+61,bitch.  *
+62,bitch.  *
+63,bitch.  *
+64,business.  *
+65,busy.  *
+66,blah.  *
+67,blatantly.  *
+68,bleh
+69,blonde.  *
+70,boobies.  *
+71,boak
+72,bollocks.  *
+73,bollocks.  *
+74,bollocks.  *
+75,bollocks.  *
+76,boner.  *
+77,bonzer.  *
+78,boobs.  *
+79,boobies.  *
+80,boat.  *
+81,boudica
+82,brah
+83,brain.  *
+84,brazil.  *
+85,bratwurst.  *
+86,brillant
+87,brony
+88,brutal.  *
+89,bro.  *
+90,brussel.  *
+91,bright.  *
+92,bs.  *
+93,bubbler.  *
+94,buggy.  *
+95,bird.  *
+96,alburquerque
+97,butthead
+98,butty.  *
+99,btw.  *
+100,bitch.  *
+101,khaki.  *
+102,caffeine.  *
+103,cojones.  *
+104,car.  *
+105,camaro
+106,camouflage.  *
+107,canadian.  *
+108,capisce
+109,crazy.  *
+110,chatbox
+111,selfie.  *
+112,center.  *
+113,cheesy.  *
+114,cheerioes
+115,chica.  *
+116,chode
+117,tune.  *
+118,cool.  *
+119,clique.  *
+120,clittoris
+121,clumsy.  *
+122,colour.  *
+123,xomg
+124,comics.  *
+125,congratulations.  *
+126,congratulations.  *
+127,cool.  *
+128,corney
+129,cows.  *
+130,cocks.  *
+131,kraftwerk
+132,crap.  *
+133,crappy.  *
+134,crikey.  *
+135,cutiful
+136,cutest.  *
+137,cutie.  *
+138,demon.  *
+139,diamond.  *
+140,damn.  *
+141,dalek
+142,dago.  *
+143,dirth
+144,dece
+145,definitely.  *
+146,definitely.  *
+147,definitely.  *
+148,definitely.  *
+149,definitely.  *
+150,douche.  *
+151,the.  *
+152,diarrhea.  *
+153,dyke.  *
+154,dil.  *
+155,delusional.  *
+156,dirty.  *
+157,dearth.  *
+158,jinn.  *
+159,doesn.  *
+160,doughnut.  *
+161,douche.  *
+162,douche.  *
+163,dark.  *
+164,dry.  *
+165,drole
+166,drunk.  *
+167,doobie
+168,doofus
+169,dummy.  *
+170,done.  *
+171,drunk.  *
+172,derp
+173,dir.  *
+174,dawg
+175,dickweed
+176,down.  *
+177,ecstasy.  *
+178,ecstasy.  *
+179,end.  *
+180,egads.  *
+181,eighth.  *
+182,embarrass.  *
+183,english.  *
+184,enterprise.  *
+185,enter.  *
+186,entrance.  *
+187,enough.  *
+188,unni
+189,epitome.  *
+190,everything.  *
+191,except.  *
+192,yes.  *
+193,facebook.  *
+194,fairy.  *
+195,faggot.  *
+196,faggot.  *
+197,faggot.  *
+198,faggot.  *
+199,faggot.  *
+200,fail.  *
+201,fanboy.  *
+202,fassy
+203,fuck.  *
+204,feminist.  *
+205,fuming.  *
+206,phone.  *
+207,files.  *
+208,friend.  *
+209,figure.  *
+210,first.  *
+211,fitba
+212,phlegm.  *
+213,flauge
+214,fucking.  *
+215,following.  *
+216,omfg
+217,foot.  *
+218,force.  *
+219,forte.  *
+220,foreplay.  *
+221,forty.  *
+222,freak.  *
+223,frisbee.  *
+224,fuck.  *
+225,fugly
+226,fuck.  *
+227,fuck.  *
+228,fuck.  *
+229,fine.  *
+230,fag.  *
+231,gaybar
+232,gash.  *
+233,gaia.  *
+234,gay.  *
+235,giant.  *
+236,gamez
+237,jail.  *
+238,gayve
+239,gorgeous.  *
+240,gay.  *
+241,jesus.  *
+242,gay.  *
+243,genius.  *
+244,grenade.  *
+245,ghey
+246,gay.  *
+247,girl.  *
+248,guys.  *
+249,goddamn.  *
+250,gokkun
+251,googolplex.  *
+252,fagoot
+253,gorgeous.  *
+254,gorgeous.  *
+255,gotten.  *
+256,great.  *
+257,grammar.  *
+258,gravy.  *
+259,great.  *
+260,gross.  *
+261,grok.  *
+262,grody
+263,gross.  *
+264,girl.  *
+265,buey
+266,wey.  *
+267,ugh.  *
+268,guilford
+269,guinness.  *
+270,gullible.  *
+271,girl.  *
+272,girl.  *
+273,hacker.  *
+274,hate.  *
+275,hammer.  *
+276,hamster.  *
+277,heinous.  *
+278,harangue.  *
+279,hearting.  *
+280,haters.  *
+281,haterade
+282,hater.  *
+283,howay
+284,hot.  *
+285,hate.  *
+286,have.  *
+287,head.  *
+288,hebe.  *
+289,hello.  *
+290,hennessy
+291,hennessy
+292,help.  *
+293,hecksa
+294,hiccough.  *
+295,hypocrite.  *
+296,help.  *
+297,homework.  *
+298,hobbit.  *
+299,ho.  *
+300,whore.  *
+301,homie
+302,homie
+303,honor.  *
+304,honey.  *
+305,hoodie.  *
+306,hugs.  *
+307,hopeless.  *
+308,whore.  *
+309,hot.  *
+310,help.  *
+311,haha.  *
+312,humorous.  *
+313,honey.  *
+314,hundred.  *
+315,idiot.  *
+316,ikhlas
+317,illiterate.  *
+318,immigration.  *
+319,insane.  *
+320,inbred.  *
+321,incredible.  *
+322,infiniti
+323,information.  *
+324,england.  *
+325,injun.  *
+326,enjoy.  *
+327,items.  *
+328,it.  *
+329,jalapa.  *
+330,yeah.  *
+331,jealous.  *
+332,jed.  *
+333,jeeze.  *
+334,jesus.  *
+335,jealous.  *
+336,genius.  *
+337,jeopardy.  *
+338,gypped.  *
+339,gist.  *
+340,joby
+341,joggins
+342,jew.  *
+343,jokes.  *
+344,drunk.  *
+345,judgmental.  *
+346,caps.  *
+347,kerrek
+348,cool.  *
+349,cool.  *
+350,christian.  *
+351,kids.  *
+352,kyiv
+353,kirara
+354,kitteh
+355,pwn
+356,know.  *
+357,cry.  *
+358,crazy.  *
+359,jerk.  *
+360,critique.  *
+361,cult.  *
+362,kurwa
+363,kurva
+364,coo.  *
+365,crazy.  *
+366,kay.  *
+367,kike.  *
+368,laughing.  *
+369,lmao
+370,lmao
+371,liar.  *
+372,laid.  *
+373,laziness.  *
+374,lead.  *
+375,learn.  *
+376,lesbo.  *
+377,like.  *
+378,liar.  *
+379,legit.  *
+380,like.  *
+381,lily.  *
+382,litre.  *
+383,liter.  *
+384,yay.  *
+385,lmfao
+386,loaf.  *
+387,lobster.  *
+388,logic.  *
+389,link.  *
+390,lose.  *
+391,loser.  *
+392,loosie
+393,looks.  *
+394,loser.  *
+395,lol.  *
+396,lol.  *
+397,love.  *
+398,lol.  *
+399,loot.  *
+400,loverly.  *
+401,luxy
+402,loser.  *
+403,life.  *
+404,like.  *
+405,life.  *
+406,list.  *
+407,mates.  *
+408,make.  *
+409,maths.  *
+410,magic.  *
+411,magnificent.  *
+412,man.  *
+413,mayne.  *
+414,magic.  *
+415,macaca.  *
+416,mamacita
+417,mansex
+418,mansion.  *
+419,moan.  *
+420,marijuana.  *
+421,marijuana.  *
+422,master.  *
+423,masturbate.  *
+424,masturbating.  *
+425,masturbation.  *
+426,metal.  *
+427,mexican.  *
+428,metre.  *
+429,meow.  *
+430,milhouse
+431,minecraft
+432,more.  *
+433,mofo
+434,moron.  *
+435,mormon.  *
+436,moron.  *
+437,muslim.  *
+438,moded
+439,mouth.  *
+440,mudkips
+441,motherfucker.  *
+442,merc.  *
+443,naked.  *
+444,nigger.  *
+445,nice.  *
+446,nice.  *
+447,nigga
+448,ninjutsu.  *
+449,nob.  *
+450,knob.  *
+451,noon.  *
+452,nub.  *
+453,nut.  *
+454,numnut
+455,okay.  *
+456,oktoberfest.  *
+457,cock.  *
+458,omfg
+459,god.  *
+460,omg
+461,omg
+462,awkward.  *
+463,lol.  *
+464,lol.  *
+465,omg
+466,uber
+467,orgasm.  *
+468,orgy.  *
+469,original.  *
+470,awesome.  *
+471,awesome.  *
+472,aussie.  *
+473,pssh
+474,patch.  *
+475,specifically.  *
+476,pie.  *
+477,people.  *
+478,patois.  *
+479,pwned
+480,pwn
+481,paid.  *
+482,people.  *
+483,pencil.  *
+484,penis.  *
+485,peeps.  *
+486,people.  *
+487,persistent.  *
+488,perv.  *
+489,fag.  *
+490,fail.  *
+491,fanny.  *
+492,filipino.  *
+493,phony.  *
+494,psychotic.  *
+495,pigeon.  *
+496,planet.  *
+497,plague.  *
+498,plz
+499,plz
+500,platonic.  *
+501,poop.  *
+502,poteen.  *
+503,poke.  *
+504,politics.  *
+505,pompadour.  *
+506,ponce.  *
+507,poppel.  *
+508,poser.  *
+509,pwn
+510,probably.  *
+511,proof.  *
+512,pork.  *
+513,porn.  *
+514,prove.  *
+515,props.  *
+516,psychedelic.  *
+517,sike.  *
+518,puppy.  *
+519,purpose.  *
+520,pussy.  *
+521,owned.  *
+522,owning.  *
+523,owns.  *
+524,cool.  *
+525,cute.  *
+526,woot
+527,queen.  *
+528,guess.  *
+529,girl.  *
+530,rape.  *
+531,radio.  *
+532,rape.  *
+533,rapist.  *
+534,rapper.  *
+535,raspberry.  *
+536,racist.  *
+537,rock.  *
+538,regan.  *
+539,receive.  *
+540,ridiculous.  *
+541,renege.  *
+542,renege.  *
+543,loser.  *
+544,retarded.  *
+545,retard.  *
+546,right.  *
+547,write.  *
+548,rotfl
+549,roar.  *
+550,rofl
+551,rude.  *
+552,retard.  *
+553,rudeboy
+554,roofie
+555,sexy.  *
+556,satan.  *
+557,scary.  *
+558,scrawny.  *
+559,sexy.  *
+560,separate.  *
+561,separate.  *
+562,seriously.  *
+563,service.  *
+564,server.  *
+565,sexy.  *
+566,sexy.  *
+567,sex.  *
+568,sure.  *
+569,shippou
+570,shorty.  *
+571,shonen
+572,shota
+573,sugar.  *
+574,psyched.  *
+575,psych.  *
+576,psyche.  *
+577,simpsons.  *
+578,skellie
+579,sleep.  *
+580,smells.  *
+581,smart.  *
+582,smart.  *
+583,sup.  *
+584,soap.  *
+585,sophomore.  *
+586,spiel.  *
+587,spell.  *
+588,suppose.  *
+589,steroid.  *
+590,stfu
+591,stomach.  *
+592,stalk.  *
+593,stupid.  *
+594,stuff.  *
+595,stupefy.  *
+596,stupid.  *
+597,subtle.  *
+598,sweet.  *
+599,summertime.  *
+600,serious.  *
+601,sucks.  *
+602,swear.  *
+603,suave.  *
+604,suave.  *
+605,sweet.  *
+606,that.  *
+607,tanuki
+608,tantie
+609,trapped.  *
+610,trap.  *
+611,tasty.  *
+612,taught.  *
+613,teeth.  *
+614,temper.  *
+615,turd.  *
+616,terrific.  *
+617,testicles.  *
+618,tuesday.  *
+619,too.  *
+620,textible
+621,the.  *
+622,they.  *
+623,theatre.  *
+624,theater.  *
+625,the.  *
+626,teh
+627,thingee
+628,thingy.  *
+629,though.  *
+630,through.  *
+631,that.  *
+632,this.  *
+633,titties.  *
+634,till.  *
+635,talk.  *
+636,to.  *
+637,tokyo.  *
+638,toilet.  *
+639,told.  *
+640,tamagotchi
+641,tomorrow.  *
+642,tool.  *
+643,stranger.  *
+644,travelers.  *
+645,trendy.  *
+646,trick.  *
+647,troop.  *
+648,type.  *
+649,uber
+650,human.  *
+651,omg
+652,until.  *
+653,eonnie
+654,unni
+655,unfazed.  *
+656,united.  *
+657,irk.  *
+658,your.  *
+659,useless.  *
+660,vacay
+661,vacuum.  *
+662,vacuum.  *
+663,vampire.  *
+664,venice.  *
+665,villain.  *
+666,victuals.  *
+667,over.  *
+668,voldemort
+669,what.  *
+670,wasting.  *
+671,wow.  *
+672,wasabi.  *
+673,waterboarding.  *
+674,was.  *
+675,wiener.  *
+676,wednesday.  *
+677,woot
+678,when.  *
+679,wang.  *
+680,wimp.  *
+681,whinging.  *
+682,whoa.  *
+683,whore.  *
+684,weiner.  *
+685,weird.  *
+686,wicked.  *
+687,woman.  *
+688,women.  *
+689,whinge.  *
+690,woot
+691,whoa.  *
+692,waffle.  *
+693,woke.  *
+694,woman.  *
+695,women.  *
+696,once.  *
+697,wookie
+698,wuss.  *
+699,wow.  *
+700,word.  *
+701,rock.  *
+702,wat.  *
+703,excellent.  *
+704,extreme.  *
+705,yeah.  *
+706,yeah.  *
+707,yay.  *
+708,yes.  *
+709,boy.  *
+710,you.  *
+711,you.  *
+712,your.  *
+713,yoube
+714,your.  *
+715,you.  *
+716,you.  *
